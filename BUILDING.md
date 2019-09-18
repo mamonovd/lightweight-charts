@@ -2,6 +2,11 @@
 
 The minimal supported version of [NodeJS](https://nodejs.org/) for development is 10.12.0.
 
+## Install Dependencies
+
+- `npm install global npm-run-all`
+- `npm i tslib ttypescript typescript ts-node ts-transformer-minify-privates rollup rollup-plugin-terser rollup-plugin-node-resolve rollup-plugin-replace dts-bundle-generator -D`
+
 ## Compiling
 
 - `npm run tsc` - compiles the source code only (excluding tests)
