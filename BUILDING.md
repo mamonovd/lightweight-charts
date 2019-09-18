@@ -5,7 +5,7 @@ The minimal supported version of [NodeJS](https://nodejs.org/) for development i
 ## Install Dependencies
 
 - `npm install global npm-run-all`
-- `npm i tslib ttypescript typescript ts-node ts-transformer-minify-privates rollup rollup-plugin-terser rollup-plugin-node-resolve rollup-plugin-replace dts-bundle-generator -D`
+- `npm i tslib ttypescript typescript ts-node ts-transformer-minify-privates rollup rollup-plugin-terser rollup-plugin-node-resolve rollup-plugin-replace dts-bundle-generator cross-env -D`
 
 ## Compiling
 
